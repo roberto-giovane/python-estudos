@@ -1,3 +1,3 @@
 # python-estudos
 # Olá
-*Projetos de estudo em Python*
+**Projetos de estudo em Python**
