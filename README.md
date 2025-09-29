@@ -1,3 +1,8 @@
 # python-estudos
-# Olá
+# Olá, eu sou o Roberto 👋
 **Projetos de estudo em Python**
+
+
+**Estudante de Python** 
+Interesses: Programação
+
