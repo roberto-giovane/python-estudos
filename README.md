@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Roberto 👋
 **Projetos de estudo em Python**
-![Foto de perfil](IMG-20240512-WA0010~3.jpg)
+<img src "20240512-WA0010~3.jpg" alt "foto" widht "50px" height "50px"
 
 **Estudante de Python** •
 Interesses: Programação
